@@ -254,10 +254,9 @@ function grade(score){
     } else{
       cvtGrade = 'F';
     }
-    return 'you got a' + ` ${cvtGrade}`
+    return `you got a ${cvtGrade}`
   }
 
-  grade(92);
   
   
   
